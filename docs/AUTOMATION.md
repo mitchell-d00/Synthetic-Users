@@ -14,6 +14,8 @@ or failure, use the linked result, release report, or exact GitHub Actions run.
 
 ## Combined MPLPB
 
+[Hands-on commands, release workflow example, and native demo](MPLPB_AUTOMATION.md)
+
 | Surface | Automation and evidence |
 |---|---|
 | [Regression workflow][m-pr] | Runs the native Python suite, replay of frozen reference evidence, synthetic researcher journeys, crawler and transport tests, and JavaScript API checks. Browser jobs exercise the compiled runtime and researcher workflows. |

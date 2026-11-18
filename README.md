@@ -10,6 +10,7 @@ It starts with B-Tests and Combined MPLPB, then maps related experiments and
 automation across the portfolio.
 
 - [Test method and operator workflow](docs/TEST_METHOD.md)
+- [How I automate and test MPLPB, with runnable examples](docs/MPLPB_AUTOMATION.md)
 - [Automation and project inventory](docs/AUTOMATION.md)
 
 ## The kinds of tests
